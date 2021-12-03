@@ -1,6 +1,6 @@
 remote_theme: pages-themes/architect@v0.2.0
-title: Water Quality in NYC
-description: My project will be looking at the water quality of NYC especially as the source of the water has changed recently as a result of the closure of the Catskill Aqueduct, 
-and how this can be used to make informed decisions on if the water quality in NYC needs further treatment when such closures happen.
+title: "Water Quality in NYC"
+description: "My project will be looking at the water quality of NYC especially as the source of the water has changed recently as a result of the closure of the Catskill Aqueduct, 
+and how this can be used to make informed decisions on if the water quality in NYC needs further treatment when such closures happen."
 plugins:
 - jekyll-remote-theme 
