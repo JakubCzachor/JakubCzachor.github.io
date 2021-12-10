@@ -17,7 +17,8 @@ layout: page
   <br>
   <br>
   <br>
-  </center>
+  
+  
   <h3>Methods:</h3><br>
   <p>In order to test if the closures of the aqueducts have affected water quality, I would analyze the water turbidity data at multiple sampling points in New York City.  
   This information is freely available online for everybody, with the links provided below. I chose to analyze the 1S03B, 33950, and 1SCL1 testing sites because of their close proximity to the end of the Delaware Aqueduct as well as their proximity to the city. I began by cleaning up the data, and replacing the values of <.10 in the data with .10 in order to make analysis easier. My hypothesis was that because of the recent closures, and increase in complaints from people regarding the quality of the water, that there would be a noticable increase in the level of turbidity in the water. In order to test this hypothesis, I would run linear regressions on the data and figure out the current trend by finding the slope of the data.</p>
@@ -64,6 +65,7 @@ Average Turbidity of 1SCL1: 0.46952991452991455<br>
 Max Turbidity of 1SCL1:  1.46<br>
 Slope:  -5.8137282401677444e-05 Intercept:  43.28282748538266<br> R Coef:  -0.11325207032188532 Standard Error:  1.0847035290399334e-05<br>
     <p1>This last data set is from the 1SCL1 testing site, which is in Harlem. The data is also trending downward, with a negative slope. There are a few recent outliers but there have been even bigger outliers in the past so I would argue that those are not statistically significant enough to prove our hypothesis. Once again, the levels of turbidity seem to depend more so on the season rather than the closure of the Delaware Aqueduct </p1></center>
+    
         <br>
   <br>
   <br>
