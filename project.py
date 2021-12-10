@@ -3,7 +3,8 @@ Name:  Jakub Czachor
 Email: jakub.czachor15@myhunter.cuny.edu
 URL: JakubC.com
 Project Title: Water Quality In NYC
-Resources:https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92, https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky
+Resources:
+https://data.cityofnewyork.us/Environment/Watershed-Water-Quality-Data/y43c-5n92, https://data.cityofnewyork.us/Environment/Drinking-Water-Quality-Distribution-Monitoring-Dat/bkwf-xfky
 https://waterdata.usgs.gov/ny/nwis/qw/
 https://www1.nyc.gov/assets/nyw/downloads/pdf/nyw-2017-dep-water-report.pdf
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
