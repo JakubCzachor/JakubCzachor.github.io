@@ -49,9 +49,9 @@ Slope:  -3.502062579920943e-05 Intercept:  26.588376830008453 R Coef:  -0.176177
     <br>
   <br>
   <h3> 
-  Average Turbidity of 33950: 0.46952991452991455
-Max Turbidity of 33950:  1.46
-Slope:  -0.00010090655415646666 Intercept:  74.82335186471137 R Coef:  -0.22429875286444997 Standard Error:  2.8783226342871914e-05
+  Average Turbidity of 33950: 0.46952991452991455<br>
+Max Turbidity of 33950:  1.46<br>
+Slope:  -0.00010090655415646666 Intercept:  74.82335186471137<br> R Coef:  -0.22429875286444997 Standard Error:  2.8783226342871914e-05
         <br>
   <br>
   <br>
@@ -61,9 +61,9 @@ Slope:  -0.00010090655415646666 Intercept:  74.82335186471137 R Coef:  -0.224298
        <br>
   <br>
   <h3> 
-Average Turbidity of 1SCL1: 0.46952991452991455
-Max Turbidity of 1SCL1:  1.46
-Slope:  -5.8137282401677444e-05 Intercept:  43.28282748538266 R Coef:  -0.11325207032188532 Standard Error:  1.0847035290399334e-05</center>
+Average Turbidity of 1SCL1: 0.46952991452991455<br>
+Max Turbidity of 1SCL1:  1.46<br>
+Slope:  -5.8137282401677444e-05 Intercept:  43.28282748538266<br> R Coef:  -0.11325207032188532 Standard Error:  1.0847035290399334e-05</center>
         <br>
   <br>
   <br>
