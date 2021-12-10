@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_4065a33a318d403c8526a072b82dd771 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_4065a33a318d403c8526a072b82dd771" ></div>
+        
+</body>
+<script>    
+    
+            var map_4065a33a318d403c8526a072b82dd771 = L.map(
+                "map_4065a33a318d403c8526a072b82dd771",
+                {
+                    center: [40.7678, -73.9645],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 8,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_62f454b021c7464ab202192aa45079c8 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_4065a33a318d403c8526a072b82dd771);
+        
+    
+            var marker_292d884b2a5943f482229d6c30caab7d = L.marker(
+                [42.08468448955769, -75.32343047356032],
+                {}
+            ).addTo(map_4065a33a318d403c8526a072b82dd771);
+        
+    
+        var popup_a5f751dc4ed74ed385c8a89aa9765afa = L.popup({"maxWidth": "100%"});
+
+        
+            var html_4f7b1dae56214e6883ea08a945faabf0 = $(`<div id="html_4f7b1dae56214e6883ea08a945faabf0" style="width: 100.0%; height: 100.0%;">Location of West Delaware Tunnel</div>`)[0];
+            popup_a5f751dc4ed74ed385c8a89aa9765afa.setContent(html_4f7b1dae56214e6883ea08a945faabf0);
+        
+
+        marker_292d884b2a5943f482229d6c30caab7d.bindPopup(popup_a5f751dc4ed74ed385c8a89aa9765afa)
+        ;
+
+        
+    
+    
+            var marker_6887e570644c40e793fbf6d928a18763 = L.marker(
+                [41.82797659215036, -74.47941633867714],
+                {}
+            ).addTo(map_4065a33a318d403c8526a072b82dd771);
+        
+    
+        var popup_eb0257d64f834689a3d74ff962a952d7 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_ef1754032b774bcc9ac94b78290fe9dc = $(`<div id="html_ef1754032b774bcc9ac94b78290fe9dc" style="width: 100.0%; height: 100.0%;">Start of Delaware Aqueduct</div>`)[0];
+            popup_eb0257d64f834689a3d74ff962a952d7.setContent(html_ef1754032b774bcc9ac94b78290fe9dc);
+        
+
+        marker_6887e570644c40e793fbf6d928a18763.bindPopup(popup_eb0257d64f834689a3d74ff962a952d7)
+        ;
+
+        
+    
+    
+            var marker_2078cb11da4b408faa722a7d46176ca8 = L.marker(
+                [40.912636638224825, -73.87045480537631],
+                {}
+            ).addTo(map_4065a33a318d403c8526a072b82dd771);
+        
+    
+        var popup_2abc66d5c9ed48fc8188d3cf2ff1b924 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_d3e4597e042f4cf2bd318a585a9a39f3 = $(`<div id="html_d3e4597e042f4cf2bd318a585a9a39f3" style="width: 100.0%; height: 100.0%;">End of Delaware Aqueduct</div>`)[0];
+            popup_2abc66d5c9ed48fc8188d3cf2ff1b924.setContent(html_d3e4597e042f4cf2bd318a585a9a39f3);
+        
+
+        marker_2078cb11da4b408faa722a7d46176ca8.bindPopup(popup_2abc66d5c9ed48fc8188d3cf2ff1b924)
+        ;
+
+        
+    
+    
+            var marker_9ceddef429a240e683f251c16860b991 = L.marker(
+                [41.20041909849701, -73.59894446149191],
+                {}
+            ).addTo(map_4065a33a318d403c8526a072b82dd771);
+        
+    
+        var popup_57223c9f74a54608b8d0b70fb1842544 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_084ee4122f7042b5817eff22f21338d2 = $(`<div id="html_084ee4122f7042b5817eff22f21338d2" style="width: 100.0%; height: 100.0%;">Location of Catskill Aqueduct</div>`)[0];
+            popup_57223c9f74a54608b8d0b70fb1842544.setContent(html_084ee4122f7042b5817eff22f21338d2);
+        
+
+        marker_9ceddef429a240e683f251c16860b991.bindPopup(popup_57223c9f74a54608b8d0b70fb1842544)
+        ;
+
+        
+    
+    
+            var marker_48a81df44ee544d4bce7589cd5c9c8bc = L.marker(
+                [40.89774232312983, -73.88514412013986],
+                {}
+            ).addTo(map_4065a33a318d403c8526a072b82dd771);
+        
+    
+        var popup_2326a772b8144a65a119bdda5c966b40 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_069021018b854789a98ed07e78bdeb9c = $(`<div id="html_069021018b854789a98ed07e78bdeb9c" style="width: 100.0%; height: 100.0%;">Location of test site 1S03B</div>`)[0];
+            popup_2326a772b8144a65a119bdda5c966b40.setContent(html_069021018b854789a98ed07e78bdeb9c);
+        
+
+        marker_48a81df44ee544d4bce7589cd5c9c8bc.bindPopup(popup_2326a772b8144a65a119bdda5c966b40)
+        ;
+
+        
+    
+    
+            var marker_e6b992be9bc94622acf79ded4af30518 = L.marker(
+                [40.89774232312983, -73.88514412013986],
+                {}
+            ).addTo(map_4065a33a318d403c8526a072b82dd771);
+        
+    
+        var popup_0be9fc9ece29448282e7abf8016f0043 = L.popup({"maxWidth": "100%"});
+
+        
+            var html_6026da769ca643c38e2213d9cc6b1f0f = $(`<div id="html_6026da769ca643c38e2213d9cc6b1f0f" style="width: 100.0%; height: 100.0%;">Location of test site 33950</div>`)[0];
+            popup_0be9fc9ece29448282e7abf8016f0043.setContent(html_6026da769ca643c38e2213d9cc6b1f0f);
+        
+
+        marker_e6b992be9bc94622acf79ded4af30518.bindPopup(popup_0be9fc9ece29448282e7abf8016f0043)
+        ;
+
+        
+    
+    
+            var marker_e79a81e63c5e40429c5369881bf4c1ac = L.marker(
+                [40.877184007366075, -73.8974065382458],
+                {}
+            ).addTo(map_4065a33a318d403c8526a072b82dd771);
+        
+    
+        var popup_ff66907621d2414c9b1df7cacc8e796c = L.popup({"maxWidth": "100%"});
+
+        
+            var html_389834aa63b44072b8608a593f465676 = $(`<div id="html_389834aa63b44072b8608a593f465676" style="width: 100.0%; height: 100.0%;">Location of test site 1SCL1</div>`)[0];
+            popup_ff66907621d2414c9b1df7cacc8e796c.setContent(html_389834aa63b44072b8608a593f465676);
+        
+
+        marker_e79a81e63c5e40429c5369881bf4c1ac.bindPopup(popup_ff66907621d2414c9b1df7cacc8e796c)
+        ;
+
+        
+    
+    
+            var poly_line_2e979973985043f49d02f38b588f5618 = L.polyline(
+                [[41.82797659215036, -74.47941633867714], [40.912636638224825, -73.87045480537631]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1, "smoothFactor": 1.0, "stroke": true, "weight": 2.5}
+            ).addTo(map_4065a33a318d403c8526a072b82dd771);
+        
+</script>
