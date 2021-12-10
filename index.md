@@ -31,7 +31,8 @@ layout: page
   <br>
   <br>
   <h3> 
-  <img src="1S03B.png" alt="1S03B Test Site" class="center">
+  ![Img](./1S03B.png)
+  
 <br>
   <br>
   <h3> 
