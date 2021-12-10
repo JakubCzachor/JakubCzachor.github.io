@@ -46,7 +46,7 @@ Slope:  -3.502062579920943e-05 Intercept:  26.588376830008453 R Coef:  -0.176177
   <br>
   <br>
   <h3> 
-    <img src="33950.png" alt="33950 Test Site" class="center"onload="this.width/=2;this.onload=null;">
+    <img src="33950.png" alt="33950 Test Site" class="center">
     <br>
   <br>
   <h3> 
@@ -59,7 +59,7 @@ Slope:  -0.00010090655415646666 Intercept:  74.82335186471137<br> R Coef:  -0.22
   <br>
   <br>
   <h3> 
-    <img src="1SCL1.png" alt="1SCL1 Test Site" class="center"onload="this.width/=2;this.onload=null;"></center>
+    <img src="1SCL1.png" alt="1SCL1 Test Site" class="center"></center>
        <br>
   <br>
   <h3> 
