@@ -33,7 +33,6 @@ layout: page
   
 <br>
   <br>
-  <h3> 
 
 <center>Average Turbidity of 1S03B: 0.783551282051282<br>
 Max Turbidity of 1S03B:  1.55<br>
