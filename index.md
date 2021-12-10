@@ -32,7 +32,7 @@ layout: page
   <br>
   <br>
   <h3> 
-  <img src="1s03b.png" alt="1S03B Test Site" class="center">
+  <img src="1S03b.png" alt="1S03B Test Site" class="center">
 <br>
   <br>
   <h3> 
