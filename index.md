@@ -1,8 +1,7 @@
 ---
 layout: page
 ---
-<html>
-<body>
+
 <h1>Jakub Czachor</h1><br>
 <h2>Project: Water Quality in NYC</h2><br>
   <h3>Abstract: </h3><br>
@@ -59,7 +58,7 @@ Slope:  -0.00010090655415646666 Intercept:  74.82335186471137<br> R Coef:  -0.22
   <br>
   <br>
   <h3> 
-    <img src="1SCL1.png" alt="1SCL1 Test Site" class="center"></center>
+    <img src="1SCL1.png" alt="1SCL1 Test Site" class="center">
        <br>
   <br>
   <h3> 
@@ -84,5 +83,4 @@ https://www1.nyc.gov/assets/nyw/downloads/pdf/nyw-2017-dep-water-report.pdf<br>
 https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html<br>
 https://seaborn.pydata.org/generated/seaborn.regplot.html <br>
 https://python-visualization.github.io/folium/quickstart.html
-</body>
-</html>
+
